@@ -1,7 +1,7 @@
 # Site
 title:              Manuel Muñoz Aguirre
 bio:                'Data scientist and PhD student in Statistics and Operations Research'
-description:        "TBD"
+description:        'Hi there! Feel free to look around, check out my social networks/research activities, or get in touch.'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.png'
@@ -41,7 +41,7 @@ email:              manuel.munoz90@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         manuel-munoz-aguirre
-stackoverflow:      3170066/drgxfs
+#stackoverflow:     username
 linkedin:           manuelmunozaguirre
 #xing:              username
 #instagram:          username
