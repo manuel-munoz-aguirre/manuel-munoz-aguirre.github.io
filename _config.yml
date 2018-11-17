@@ -5,7 +5,7 @@ description:        "TBD"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.png'
-background:         'assets/img/bg_blue_2.jpg'
+background:         'assets/img/bg_blue.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://manuel-munoz-aguirre.github.io
