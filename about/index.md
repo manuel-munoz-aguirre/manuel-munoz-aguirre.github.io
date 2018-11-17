@@ -16,4 +16,4 @@ I'm all about generating knowledge from data to solve interdisciplinary problems
 Cybernetics Electronics engineer, with a double degree in Mechatronics. Master in Data Science and Knowledge Management. I use R for quick exploratory analyses (dplyr, data.table, ggplot2, caret) and Python for heavy duty machine learning/data processing (scikit-learn, pandas, keras) tasks. Check out my [github profile](https://github.com/manuel-munoz-aguirre) for some examples, and my [LinkedIn profile](https://www.linkedin.com/in/manuelmunozaguirre/) for a detailed list of skills.
 
 ## Contact
-Feel free to [drop me a line](mailto:manuel.munoz@gmail.com).
+Feel free to [drop me a line](mailto:manuel.munoz90@gmail.com).
