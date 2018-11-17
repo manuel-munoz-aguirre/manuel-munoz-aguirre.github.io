@@ -39,10 +39,10 @@ sass:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           username
-github-url:         https://github.com/manuel-munoz-aguirre/
+#facebook:           username
+github-url:         manuel-munoz-aguirre
 stackoverflow:      3170066/drgxfs
-linkedin:           https://www.linkedin.com/in/manuelmunozaguirre/
+linkedin:           manuelmunozaguirre
 #xing:              username
 #instagram:          username
 #lastfm:            username
