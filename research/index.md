@@ -15,6 +15,7 @@ comments: false
 
 ## Conferences
 
+* ISBER's 2nd Biospecimen Research Symposium: Focus on Quality and Standards. February 5-6, 2019. Berlin, Germany, *Talk: The effects of death and post-mortem cold ischemia on human tissue transcriptomes.*
 * Biology of Genomes. May 8-12, 2018. Cold Spring Harbor, NY, USA. *Poster: Characterizing transcriptomic variation across human phenotypes by integrating RNAseq data with histopathology images and annotations.*
 * GTEx Project Community Meeting. June 27-28, 2017. Rockville, MD, USA. *Talk: Leveraging the GTEx histological data: phenotype extraction.*
 * CRG PhD Symposium. 2017. Barcelona, Spain. *Poster: Exploring the relationship between the transcriptome and human phenotypes.*
@@ -25,8 +26,9 @@ comments: false
 
 ## Teaching
 
-* Statistical methods for data mining. Universitat Politècnica de Catalunya. Barcelona, Spain. *Lab sessions*.
-* Statistical genetics. Universitat Politècnica de Catalunya. Barcelona, Spain. *Lab sessions*.
-* Studying the transcriptome using RNAseq. Centre for Genomic Regulation. Barcelona, Spain. *Workshop*.
+* Statistics and Health Sciences (Statistics for Biosciences). Universitat Politècnica de Catalunya. 2019. Barcelona, Spain. *Lab sessions*.
+* Statistics and Biodiversity (Statistics for Biosciences). Universitat Politècnica de Catalunya. 2018, 2019. Barcelona, Spain. *Lab sessions*.
+* Studying the transcriptome using RNAseq. Centre for Genomic Regulation. 2018, 2019. Barcelona, Spain. *Workshop*.
+* Statistical methods for data mining. Universitat Politècnica de Catalunya. 2018. Barcelona, Spain. *Lab sessions*.
 * Statistics and probability. Centro de Enseñanza Técnica y Superior. Mexicali, México. *Mentoring sessions*.
 * Programming I and II. Centro de Enseñanza Técnica y Superior. Mexicali, México. *Mentoring sessions*.
