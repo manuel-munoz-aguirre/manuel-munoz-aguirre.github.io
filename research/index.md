@@ -15,6 +15,7 @@ comments: false
 
 ## Conferences
 
+* LifeTime Unconference. July 22-23, 2019. Barcelona, Spain. *Talk: Connecting bulk transcriptomic variation with human phenotypes by integrating RNAseq with histopathology images.*
 * ISBER's 2nd Biospecimen Research Symposium: Focus on Quality and Standards. February 5-6, 2019. Berlin, Germany, *Talk: The effects of death and post-mortem cold ischemia on human tissue transcriptomes.*
 * Biology of Genomes. May 8-12, 2018. Cold Spring Harbor, NY, USA. *Poster: Characterizing transcriptomic variation across human phenotypes by integrating RNAseq data with histopathology images and annotations.*
 * GTEx Project Community Meeting. June 27-28, 2017. Rockville, MD, USA. *Talk: Leveraging the GTEx histological data: phenotype extraction.*
