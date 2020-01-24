@@ -8,7 +8,8 @@ comments: false
 
 ## Publications
 
-* PG Ferreira, M Muñoz-Aguirre, [...], Guigó, R. (2018). *The effects of death and post-mortem cold ischemia on human tissue transcriptomes*. Nature Communications 9 (1), 490. [https://doi.org/10.1038/s41467-017-02772-x](https://doi.org/10.1038/s41467-017-02772-x)
+* Breschi A.\*, Muñoz-Aguirre M.\*, [...], Guigó R., (2019). *A limited set of transcriptional programs define major histological types and provide the molecular basis for a cellular taxonomy of the human body*. bioRxiv. [https://doi.org/10.1101/857169](https://doi.org/10.1101/857169)
+* PG Ferreira, Muñoz-Aguirre M., [...], Guigó, R. (2018). *The effects of death and post-mortem cold ischemia on human tissue transcriptomes*. Nature Communications 9 (1), 490. [https://doi.org/10.1038/s41467-017-02772-x](https://doi.org/10.1038/s41467-017-02772-x)
 * Muñoz-Aguirre M., Ferreira PG., Guigó R. (2018). *Determinación de la hora de la muerte a partir del patrón de expresión de los genes en múltiples tejidos.* Genética Médica News. ISSN 2386-5113. [Link](https://revistageneticamedica.com/2018/07/18/post-mortem-expresion/)
 * GTEx Consortium. (2017). *Genetic effects on gene expression across human tissues*. Nature. [https://doi.org/10.1038/nature24277](https://doi.org/10.1038/nature24277)
 * Muñoz-Aguirre M., Cheng Y. (2012). *Hardware and software co-simulation*. Bachelor thesis, HBO Kennisbank. [Link](https://www.hbo-kennisbank.nl/resolve/zeelandhogeschool/eyJoIjogImIzMTRlYzAzMzQ3ZGNkZjBiMGNmZThiOGMzZDA3ZmJmNjA4ODIwY2M2NDJmNmRhM2VkZjIzMzRiYWQyNjVkNmUiLCAidSI6ICJodHRwczovL3N1cmZzaGFyZWtpdC5ubC9kbC9oei85Y2E3YzI1My1lNjlhLTQ3YmEtOWJjMC1jNGJkYzc1MWViMGEvMDY1MTdkYmYtN2Q2Yi00YzE1LWJkMjQtM2UzMzUxMjU4ZWVjIn0=)
@@ -33,3 +34,9 @@ comments: false
 * Statistical methods for data mining. Universitat Politècnica de Catalunya. 2018. Barcelona, Spain. *Lab sessions*.
 * Statistics and probability. Centro de Enseñanza Técnica y Superior. Mexicali, México. *Mentoring sessions*.
 * Programming I and II. Centro de Enseñanza Técnica y Superior. Mexicali, México. *Mentoring sessions*.
+
+## Competitions
+* Barcelona Citython 2019 - Rethinking mobility in cities: Winner of the *Comprehensive Cities* category.
+* Accenture Digital Healthcare Hackaton 2019 - prediction of mortality rate in melanoma patients: Finalist (4th place).
+* Barcelona Citython 2018: Winner of the CISCO tech prize.
+
